@@ -2,12 +2,12 @@
 beredis is a high-performance caching library written in Lua for FiveM. It provides a simple and efficient solution for storing and retrieving data in memory, optimizing the performance of your FiveM scripts.
 
 ## Features
-In-memory storage of key-value pairs
-Support for expiration durations (TTL) for cache entries
-Configurable maximum cache size for controlled memory usage
-Hash functions for fast lookups
-Automatic garbage collection to remove expired entries
-Simple and intuitive API for easy integration into your FiveM scripts
+- In-memory storage of key-value pairs
+- Support for expiration durations (TTL) for cache entries
+- Configurable maximum cache size for controlled memory usage
+- Hash functions for fast lookups
+- Automatic garbage collection to remove expired entries
+- Simple and intuitive API for easy integration into your FiveM scripts
 
 ## Usage
 
